@@ -174,7 +174,7 @@ const NextLoginPage = () => {
                 >
                   <FcGoogle />
                   <span className="text-sm font-semibold leading-6">
-                    Google1
+                    Google
                   </span>
                 </button>
 
